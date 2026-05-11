@@ -1,0 +1,10 @@
+
+*.exe
+*.o
+*.out
+campus_system
+hospital_system
+
+*.txt
+*.dat
+!CMakeLists.txt
