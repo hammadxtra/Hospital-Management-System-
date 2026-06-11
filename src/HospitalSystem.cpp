@@ -1,4 +1,4 @@
-#include "HospitalSystem.h"
+#include "../HospitalSystem.h"
 
 //===========================================
 // 1. Person Class Definitions
