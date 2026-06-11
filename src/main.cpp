@@ -1,4 +1,4 @@
-#include "HospitalSystem.h"
+#include "../HospitalSystem.h"
 
 int main() {
 	all();
